@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@abw/react-formula": "^0.1.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -10,11 +11,18 @@
     "@types/node": "^16.18.98",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
+    "lodash": "^4.17.21",
+    "mathjs": "^13.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-dropdown-select": "^4.11.2",
+    "react-query": "^3.39.3",
     "react-scripts": "5.0.1",
+    "react-select": "^5.8.0",
+    "react-tag-input": "^6.10.2",
     "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "zustand": "^4.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
